@@ -1,0 +1,12 @@
+{
+  "id": "obsidian-neo-sploosh-theme",
+  "name": "Neo Sploosh",
+  "type": "theme",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "author": "monoooki",
+  "authorUrl": "https://monoooki.net",
+  "description": "A splashy light Obsidian theme with cool blues, soft grays, and bright yellow accents for a quick, clean workspace.",
+  "isDesktopOnly": false
+}
+
