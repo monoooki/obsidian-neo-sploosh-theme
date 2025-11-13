@@ -2,7 +2,7 @@
 
 ![hero](assets/hero.png)
 
-**Neo Sploosh** is a light theme that combines cool blues, soft grays, and bright yellow accents for a clean, quick-feeling look. The name comes from the [_Neo Sploosh-o-matic_](https://splatoonwiki.org/wiki/Neo_Sploosh-o-matic), the Splatoon 3 weapon that inspired the palette.
+**Neo Sploosh** is a simple theme that combines cool blues, soft grays, and bright yellow accents for a clean, quick-feeling look. The name comes from the [_Neo Sploosh-o-matic_](https://splatoonwiki.org/wiki/Neo_Sploosh-o-matic), the Splatoon 3 weapon that inspired the palette.
 
 ![](assets/neo-sploosh-dark.png)
 
